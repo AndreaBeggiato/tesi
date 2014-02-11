@@ -14,31 +14,44 @@
 \contentsline {subsection}{\numberline {2.1.2}Analisi della presenza di dati comportamentali che caratterizzano l'amicizia}{5}{subsection.13}
 \contentsline {section}{\numberline {2.2}Ambito scientifico}{7}{section.15}
 \contentsline {subsection}{\numberline {2.2.1}Predizione delle traiettorie}{7}{subsection.16}
-\contentsline {subsection}{\numberline {2.2.2}Predizione delle connessioni tra utenti}{7}{subsection.17}
-\contentsline {subsection}{\numberline {2.2.3}Sistema di raccomandazione}{7}{subsection.18}
-\contentsline {subsection}{\numberline {2.2.4}Similitude tra utenti}{7}{subsection.19}
-\contentsline {chapter}{\numberline {3}Setup dell'esperimento}{8}{chapter.20}
-\contentsline {section}{\numberline {3.1}Datasets}{8}{section.21}
-\contentsline {subsection}{\numberline {3.1.1}Foursquare}{8}{subsection.22}
-\contentsline {subsection}{\numberline {3.1.2}Geolife}{8}{subsection.23}
-\contentsline {section}{\numberline {3.2}Strumenti utilizzati}{8}{section.24}
-\contentsline {subsection}{\numberline {3.2.1}Python}{8}{subsection.25}
-\contentsline {subsection}{\numberline {3.2.2}Networkx}{8}{subsection.26}
-\contentsline {subsection}{\numberline {3.2.3}Google Maps API}{8}{subsection.27}
-\contentsline {chapter}{\numberline {4}Dettaglio dell'esperimento}{9}{chapter.28}
-\contentsline {section}{\numberline {4.1}Raccolta dati grezzi}{10}{section.29}
-\contentsline {subsection}{\numberline {4.1.1}Visualizzazione dati grezzi}{10}{subsection.30}
-\contentsline {section}{\numberline {4.2}Creazione del grafo}{10}{section.31}
-\contentsline {subsection}{\numberline {4.2.1}Algoritmo basato sulla densit}{10}{subsection.32}
-\contentsline {subsection}{\numberline {4.2.2}Algoritmo basato sulla suddivisione}{10}{subsection.33}
-\contentsline {subsection}{\numberline {4.2.3}Algoritmo basato sul tempo e sullo spazio}{10}{subsection.34}
-\contentsline {subsection}{\numberline {4.2.4}Creazione del grafo aumentato}{10}{subsection.35}
-\contentsline {section}{\numberline {4.3}Analisi dei grafi}{10}{section.36}
-\contentsline {subsection}{\numberline {4.3.1}Analisi dei grafi personali}{10}{subsection.37}
-\contentsline {subsubsection}{\numberline {4.3.1.1}Analisi dei grafi giornalieri}{10}{subsubsection.38}
-\contentsline {subsubsection}{\numberline {4.3.1.2}Analisi dei grafi periodici}{10}{subsubsection.39}
-\contentsline {subsection}{\numberline {4.3.2}Analisi dei grafi aggregati}{10}{subsection.40}
-\contentsline {chapter}{\numberline {5}Discussione dei risultati}{11}{chapter.41}
-\contentsline {chapter}{\numberline {6}Conclusioni e sviluppi futuri}{12}{chapter.42}
+\contentsline {subsection}{\numberline {2.2.2}Similitude tra utenti}{7}{subsection.17}
+\contentsline {subsubsection}{\numberline {2.2.2.1}Definizioni}{7}{subsubsection.18}
+\contentsline {subsubsection}{\numberline {2.2.2.2}Processo per il calcolo della similitudine}{8}{subsubsection.20}
+\contentsline {paragraph}{Pattern matching}{10}{section*.22}
+\contentsline {subsection}{\numberline {2.2.3}Sistema di raccomandazione}{12}{subsection.26}
+\contentsline {subsubsection}{\numberline {2.2.3.1}Collaborative filtering}{12}{subsubsection.27}
+\contentsline {subsubsection}{\numberline {2.2.3.2}Content-based filtering}{14}{subsubsection.28}
+\contentsline {subsubsection}{\numberline {2.2.3.3}Location-content-aware filtering}{14}{subsubsection.29}
+\contentsline {paragraph}{Modello offline}{15}{section*.31}
+\contentsline {paragraph}{Modello online}{16}{section*.32}
+\contentsline {paragraph}{Dataset utilizzato}{17}{section*.33}
+\contentsline {paragraph}{Risultati ottenuti}{17}{section*.34}
+\contentsline {subsection}{\numberline {2.2.4}Predizione delle connessioni tra utenti}{18}{subsection.36}
+\contentsline {subsubsection}{\numberline {2.2.4.1}Dataset utilizzato}{18}{subsubsection.38}
+\contentsline {subsubsection}{\numberline {2.2.4.2}Definizioni}{20}{subsubsection.41}
+\contentsline {subsubsection}{\numberline {2.2.4.3}Propriet\`{a} dei luoghi}{21}{subsubsection.42}
+\contentsline {chapter}{\numberline {3}Setup dell'esperimento}{23}{chapter.44}
+\contentsline {section}{\numberline {3.1}Datasets}{23}{section.45}
+\contentsline {subsection}{\numberline {3.1.1}Foursquare}{23}{subsection.46}
+\contentsline {subsection}{\numberline {3.1.2}Geolife}{23}{subsection.47}
+\contentsline {section}{\numberline {3.2}Strumenti utilizzati}{24}{section.48}
+\contentsline {subsection}{\numberline {3.2.1}Python}{24}{subsection.49}
+\contentsline {subsection}{\numberline {3.2.2}Networkx}{24}{subsection.50}
+\contentsline {subsection}{\numberline {3.2.3}Google Maps API}{24}{subsection.51}
+\contentsline {chapter}{\numberline {4}Dettaglio dell'esperimento}{25}{chapter.52}
+\contentsline {section}{\numberline {4.1}Raccolta dati grezzi}{26}{section.53}
+\contentsline {subsection}{\numberline {4.1.1}Visualizzazione dati grezzi}{26}{subsection.54}
+\contentsline {section}{\numberline {4.2}Creazione del grafo}{26}{section.55}
+\contentsline {subsection}{\numberline {4.2.1}Algoritmo basato sulla densit}{26}{subsection.56}
+\contentsline {subsection}{\numberline {4.2.2}Algoritmo basato sulla suddivisione}{26}{subsection.57}
+\contentsline {subsection}{\numberline {4.2.3}Algoritmo basato sul tempo e sullo spazio}{26}{subsection.58}
+\contentsline {subsection}{\numberline {4.2.4}Creazione del grafo aumentato}{26}{subsection.59}
+\contentsline {section}{\numberline {4.3}Analisi dei grafi}{26}{section.60}
+\contentsline {subsection}{\numberline {4.3.1}Analisi dei grafi personali}{26}{subsection.61}
+\contentsline {subsubsection}{\numberline {4.3.1.1}Analisi dei grafi giornalieri}{26}{subsubsection.62}
+\contentsline {subsubsection}{\numberline {4.3.1.2}Analisi dei grafi periodici}{26}{subsubsection.63}
+\contentsline {subsection}{\numberline {4.3.2}Analisi dei grafi aggregati}{26}{subsection.64}
+\contentsline {chapter}{\numberline {5}Discussione dei risultati}{27}{chapter.65}
+\contentsline {chapter}{\numberline {6}Conclusioni e sviluppi futuri}{28}{chapter.66}
 \vspace {2em}
-\contentsline {chapter}{Bibliography}{13}{dummy.43}
+\contentsline {chapter}{Bibliography}{29}{dummy.67}
